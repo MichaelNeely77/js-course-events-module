@@ -5,7 +5,7 @@ const buttons = document.querySelectorAll('button');
 // }
 
 const buttonClickHandler = event => {
-    event.target.disabled = true;
+    // event.target.disabled = true;
     console.log(event);
 }
 
@@ -21,6 +21,26 @@ const anotherClickHandler = () => {
 //     button.removeEventListener('click', buttonClickHandler);
 // }, 2000);
 
-buttons.forEach(btn => {
-    btn.addEventListener('click', buttonClickHandler);
-});
+// buttons.forEach(btn => {
+//     btn.addEventListener('mouseenter', buttonClickHandler);
+// });
+//
+// window.addEventListener('scroll', event => {
+//     console.log(event);
+// });
+
+
+// let curElementNumber = 0;
+//
+// function scrollHandler() {
+//     const distanceToBottom = document.body.getBoundingClientRect().bottom;
+//
+//     if(distanceToBottom < document.documentElement.clientHeight + 150) {
+//         const newDataElement = document.createElement('div');
+//         curElementNumber++;
+//         newDataElement.innerHTML = `<p>Element ${curElementNumber}</p>`;
+//         document.body.append(newDataElement);
+//     }
+// }
+//
+// window.addEventListener('scroll', scrollHandler);
