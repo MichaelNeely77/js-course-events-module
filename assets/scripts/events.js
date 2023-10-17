@@ -54,22 +54,33 @@ form.addEventListener('submit', event => {
 
 const div = document.querySelector('div');
 
-div.addEventListener('click', event => {
+div.addEventListener('mouseenter', event => {
     console.log('Clicked div');
     console.log(event);
 
 });
 
-button.addEventListener('click', event => {
+button.addEventListener('click', function(event) {
     event.stopPropagation();
     console.log('Clicked button');
     console.log(event);
+    console.log(this);
 });
 
 const listItems = document.querySelectorAll('li');
+const list = document.querySelector('ul');
 
-listItems.forEach(listItem => {
-    listItem.addEventListener('click', event => {
-        event.target.classList.toggle('highlight');
+// listItems.forEach(listItem => {
+//     listItem.addEventListener('click', event => {
+//         event.target.classList.toggle('highlight');
+//     });
+// });
+
+list.addEventListener('click', function(event) {
+    // console.log(event.currentTarget);
+    // event.target.classList.toggle('highlight');
+    event.target.closest('li').classList.toggle('highlight');
+    // form.submit();
+    button.click();
+    console.log(this);
     });
-});
