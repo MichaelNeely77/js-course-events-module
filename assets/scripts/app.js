@@ -106,7 +106,7 @@ class ProjectItem {
 
   connectDrag() {
     document.getElementById(this.id).addEventListener('dragstart', event => {
-        event.dataTransfer.setData('text/plan', this.id);
+        event.dataTransfer.setData('text/plain', this.id);
         event.dataTransfer.effectAllowed = 'none';
     });
   }
@@ -152,18 +152,26 @@ class ProjectList {
   }
 
   connectDroppable() {
-    const list = document.querySelectorAll(`#${type}-projects ul`);
+    const list = document.querySelector(`#${this.type}-projects ul`);
 
     list.addEventListener('dragenter', event => {
       if (event.dataTransfer.types[0] === 'text/plain') {
-          event.preventDefault();
+        list.parentElement.classList.add('droppable');
+        event.preventDefault();
         }
       });
 
     list.addEventListener('dragover', event => {
-      event.preventDefault();
+      if (event.dataTransfer.types[0] === 'text/plain') {
+        event.preventDefault();
+      }
+    });
 
-    })
+    list.addEventListener('dragleave', event => {
+      if (event.relatedTarget.closest(`#${this.type}-projects ul`) !== list) {
+        list.parentElement.classList.remove('droppable');
+      }
+    });
   }
 
   setSwitchHandlerFunction(switchHandlerFunction) {
