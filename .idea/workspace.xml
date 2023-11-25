@@ -5,13 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99a9bc97-5c99-4141-b368-5c72313da43e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/scripts/App/PorjectsItems.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scripts/App/ProjectsLists.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scripts/App/Tool-tip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scripts/Utility/DOMHelpers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/App/Component.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/App/Component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/App/ProjectItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/App/ProjectItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/App/ProjectList.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/App/ProjectList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/App/Tooltip.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/App/Tooltip.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/scripts/Utility/DOMHelper.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/Utility/DOMHelper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,7 +95,10 @@
       <workItem from="1700579425678" duration="2341000" />
       <workItem from="1700667520469" duration="2752000" />
       <workItem from="1700670312569" duration="3000" />
-      <workItem from="1700670478987" duration="429000" />
+      <workItem from="1700670478987" duration="951000" />
+      <workItem from="1700844291769" duration="510000" />
+      <workItem from="1700845148814" duration="1878000" />
+      <workItem from="1700927226919" duration="1638000" />
     </task>
     <servers />
   </component>
