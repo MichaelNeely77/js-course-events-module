@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99a9bc97-5c99-4141-b368-5c72313da43e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/scripts/App/PorjectsItems.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/App/ProjectsLists.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/App/Tool-tip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scripts/Utility/DOMHelpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scripts/App/Compponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/scripts/App/Component.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/App/Component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/App/ProjectItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/App/ProjectItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/App/ProjectList.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/App/ProjectList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/App/Tooltip.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/App/Tooltip.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/Utility/DOMHelper.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/Utility/DOMHelper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/App/Tool-tip.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/App/Tool-tip.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +91,11 @@
       <workItem from="1700670478987" duration="951000" />
       <workItem from="1700844291769" duration="510000" />
       <workItem from="1700845148814" duration="1878000" />
-      <workItem from="1700927226919" duration="1638000" />
+      <workItem from="1700927226919" duration="2193000" />
+      <workItem from="1700929452495" duration="460000" />
+      <workItem from="1701273786597" duration="43000" />
+      <workItem from="1701890208038" duration="1362000" />
+      <workItem from="1701891596174" duration="730000" />
     </task>
     <servers />
   </component>
