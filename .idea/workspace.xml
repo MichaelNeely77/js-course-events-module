@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99a9bc97-5c99-4141-b368-5c72313da43e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/App/Compponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/App/Compponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/App/PorjectsItems.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/App/PorjectsItems.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/App/Tool-tip.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scripts/App/Tool-tip.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,23 +27,27 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2WZpfj1noCNfzLwgqUTAGQ7o4bV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/micha/OneDrive - michaelneely.net/Udemy- The Complete JS Guide 2023 (Max)/events-01-starting-setup&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/micha/OneDrive - michaelneely.net/Udemy- The Complete JS Guide 2023 (Max)/tooling-01-starting-project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\micha\OneDrive - michaelneely.net\Udemy- The Complete JS Guide 2023 (Max)\events-01-starting-setup\assets\scripts" />
@@ -97,11 +99,16 @@
       <workItem from="1701890208038" duration="1362000" />
       <workItem from="1701891596174" duration="898000" />
       <workItem from="1701960135774" duration="1763000" />
-      <workItem from="1702044187542" duration="2069000" />
+      <workItem from="1702044187542" duration="3031000" />
+      <workItem from="1702136957736" duration="1170000" />
+      <workItem from="1702139813601" duration="327000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
