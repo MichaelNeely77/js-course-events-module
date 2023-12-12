@@ -5,24 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99a9bc97-5c99-4141-b368-5c72313da43e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/App/Compponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/PorjectsItems.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/ProjectsLists.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/Tool-tip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utility/Analytics.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utility/DOMHelpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/App/Compponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/App/PorjectsItems.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/App/ProjectsLists.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/App/Tool-tip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/Utility/Analytics.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/Utility/DOMHelpers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scripts/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App/PorjectsItems.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/PorjectsItems.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App/ProjectsLists.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/ProjectsLists.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App/Tool-tip.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/Tool-tip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +58,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\micha\OneDrive - michaelneely.net\Udemy- The Complete JS Guide 2023 (Max)\events-01-starting-setup\src" />
       <recent name="C:\Users\micha\OneDrive - michaelneely.net\Udemy- The Complete JS Guide 2023 (Max)\events-01-starting-setup\assets\scripts" />
       <recent name="C:\Users\micha\OneDrive - michaelneely.net\Udemy- The Complete JS Guide 2023 (Max)\events-01-starting-setup\assets\Utility" />
     </key>
@@ -124,7 +113,7 @@
       <workItem from="1702139813601" duration="2121000" />
       <workItem from="1702221886009" duration="3348000" />
       <workItem from="1702226874646" duration="257000" />
-      <workItem from="1702395239417" duration="1486000" />
+      <workItem from="1702395239417" duration="2383000" />
     </task>
     <servers />
   </component>
