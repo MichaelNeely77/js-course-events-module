@@ -37,4 +37,3 @@ export class Tooltip extends Cmp {
         this.element = tooltipElement;
     }
 }
-

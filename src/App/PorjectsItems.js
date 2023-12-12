@@ -67,4 +67,3 @@ export class ProjectItem {
         this.connectSwitchButton(type);
     }
 }
-
