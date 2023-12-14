@@ -1,5 +1,7 @@
+import * as _ from 'lodash';
 import { ProjectList } from './App/ProjectsLists';
 
+console.log(_.difference([0,1], [1,2]));
 class App {
     static init() {
         const activeProjectsList = new ProjectList('active');

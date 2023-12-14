@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99a9bc97-5c99-4141-b368-5c72313da43e" name="Changes" comment="" />
+    <list default="true" id="99a9bc97-5c99-4141-b368-5c72313da43e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/1.8cd460a1601fee1f066c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/1.8cd460a1601fee1f066c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/499215fe267d2a25bc41.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts/499215fe267d2a25bc41.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +117,7 @@
       <workItem from="1702395239417" duration="3412000" />
       <workItem from="1702476643384" duration="1903000" />
       <workItem from="1702478563355" duration="54000" />
-      <workItem from="1702563268840" duration="1374000" />
+      <workItem from="1702563268840" duration="2701000" />
     </task>
     <servers />
   </component>
